@@ -5,8 +5,10 @@ function MultiplyNums(a, b){
 }
 
 
-MultiplyNums(10, 10)
+const sum = MultiplyNums(10,10)
 
-console.log(MultiplyNums);
+console.log(sum);
+
+
 
 
